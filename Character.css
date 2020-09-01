@@ -1,0 +1,43 @@
+body {
+    
+    background-color: dimgray;
+    background-image: url(https://cdn.cheatcc.com/news_images/ssb___wallpaper___super_smash_bros__by_thelimomon-d6n0z7t.png);
+    background-size: cover;   
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: auto;
+    background-attachment: fixed;
+}
+
+#head{
+    margin-left: 85px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: white;
+}
+
+#links{
+    background-color: black;
+    border-style: inset;
+    border-color: white;
+    border-width: 8px;
+    margin-left: 85px;
+    margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 20px;
+}
+
+a:link{
+    color: white;
+    
+}
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: darkgrey;
+}
